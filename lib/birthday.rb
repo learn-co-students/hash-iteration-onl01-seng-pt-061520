@@ -12,5 +12,5 @@ end
 
 def age_appropriate_birthday(birthday_kids)
   birthday_kids.each do |name, age|
-    puts
+    puts "Happy Birthday Timmy! You are now 9 years old!
   
